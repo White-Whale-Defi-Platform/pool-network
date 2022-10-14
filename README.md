@@ -1,3 +1,7 @@
+#### Notice: This repository, which was treated as a git submodule, has been merged with [migaloo-core](https://github.com/White-Whale-Defi-Platform/migaloo-core) in commit [b180e6cd23f87cd6a01ad38854fab64b810dc756](https://github.com/White-Whale-Defi-Platform/migaloo-core/commit/b180e6cd23f87cd6a01ad38854fab64b810dc756).
+
+---
+
 # Pool Network
 
 White Whale's pool network is based on [Terraswap](https://github.com/terraswap/terraswap), a Uniswap-inspired automated market-maker (AMM) protocol.
